@@ -1,4 +1,4 @@
-# Hi, I'm Rein Roxanne!
+# Hi, I'm ZEi joy!
 
 BS Nursing Student | 21st Century IT Skills
 
