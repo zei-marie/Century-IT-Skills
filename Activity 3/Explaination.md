@@ -100,4 +100,4 @@ Overall, this project strengthened my skills in digital design, information orga
 
 ---
 
-✦ Thank you for viewing my work! ♡<img width="800" height="2000" alt="Infographic_DELGADO, Z" src="https://github.com/user-attachments/assets/bc763c59-e4a4-4061-bddb-f25bee079143" />
+✦ Thank you for viewing my work! ♡
