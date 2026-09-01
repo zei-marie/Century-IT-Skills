@@ -1,3 +1,4 @@
+<img width="1240" height="400" alt="zeiane" src="https://github.com/user-attachments/assets/3e7bc510-8a25-45ee-b71e-c8208dbf28bc" />
 <h1 align="center">₊˚⊹ Hi, I'm Zeiane! ✦</h1>
 
 <p align="center">
