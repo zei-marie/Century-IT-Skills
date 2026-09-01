@@ -1,65 +1,86 @@
-# ₊˚⊹ Hi, I'm Zeiane! ✦
+<h1 align="center">
+🌼 Hi, I'm Zeiane! 🩵
+</h1>
 
-**BS Nursing Student Year 4 | 21st Century IT Skills**
+<p align="center">
+🌸 <b>BS Nursing Student Year 4 | 21st Century IT Skills</b> 🌸
+</p>
 
-Welcome to my digital portfolio ♡
-
-This repository contains my academic activities, creative outputs, and learning experiences from the **21st Century IT Skills course**. It showcases my journey in developing digital literacy, creativity, and technological skills that can support my future practice as a healthcare professional.
-
----
-
-# ₊˚⊹ About Me
-
-I am a **4th-year Bachelor of Science in Nursing student** who believes that healthcare and technology can work together to create better learning experiences and improve patient care.
-
-Through this course, I am exploring how digital tools can enhance communication, organization, creativity, and problem-solving skills. This portfolio represents my growth as a student nurse adapting to the continuously evolving digital world.
-
-### ✦ Currently Exploring:
-
-♡ Digital tools and applications in healthcare  
-♡ Information technology and digital collaboration  
-♡ Creative design and visual communication  
-♡ The role of technology in improving healthcare practices  
-♡ Continuous learning and professional development  
+<p align="center">
+🩵 Welcome to my digital portfolio 🩷
+</p>
 
 ---
 
-# ₊˚⊹ Course Activities
+## 🌼 About This Portfolio
 
-## ✦ Activity 1: Presentation Design Principles
+This repository contains my academic activities, creative outputs, and learning experiences from the **21st Century IT Skills course**.
 
-This activity focused on understanding the importance of effective presentation design. 
+Through this portfolio, I showcase my journey in developing **digital literacy, creativity, and technology skills** that support my growth as a future healthcare professional.
 
-I applied fundamental design principles such as **visual hierarchy, alignment, contrast, consistency, and simplicity** to create presentations that are organized, engaging, and easier for audiences to understand.
+<p align="center">
+🌼 ───────── 🩷 ───────── 🩵
+</p>
 
-Through this activity, I learned that good design is not only about appearance but also about communicating ideas clearly and effectively.
+# 🩵 About Me
+
+I am a **4th-year Bachelor of Science in Nursing student** who believes that healthcare and technology can work together to improve learning, communication, and patient care.
+
+As healthcare continues to evolve, I am exploring how digital tools can help nurses become more adaptable, innovative, and prepared for the future of healthcare.
+
+### 🌸 Currently Exploring:
+
+🌼 Digital tools and applications in healthcare
+🩵 Information technology and digital collaboration
+🩷 Creative design and visual communication
+🌼 Technology-supported learning strategies
+🩵 Continuous growth and professional development
 
 ---
 
-## ✦ Activity 2: Color Palette and Typography
+# 🌸 Course Activities
 
-This activity explored the importance of selecting appropriate **colors and typography** in creating meaningful digital designs.
+## 🌼 Activity 1: Presentation Design Principles
 
-I learned how color choices influence mood, readability, and visual identity, while typography helps organize information and improve communication.
+This activity focused on understanding the importance of effective presentation design.
 
-This activity helped me develop a better understanding of how design elements can create a more professional and visually appealing output.
+I applied design principles such as **visual hierarchy, alignment, contrast, consistency, and simplicity** to create presentations that are organized, visually balanced, and easier for audiences to understand.
+
+Through this activity, I learned that good design is not only about making outputs attractive but also about communicating ideas clearly and effectively.
 
 ---
 
-## ✦ Activity 3: Social Media Infographics and Mini Project Documentation
+## 🩵 Activity 2: Color Palette and Typography
+
+This activity explored the importance of selecting appropriate **color palettes and typography** in digital design.
+
+I learned how colors influence visual identity, emotions, and readability, while typography helps organize information and improve communication.
+
+This activity helped me understand how simple design choices can create professional and engaging digital outputs.
+
+---
+
+## 🩷 Activity 3: Social Media Infographics and Mini Project Documentation
 
 This activity involved creating a digital infographic and documenting the process behind its development.
 
-Through this project, I practiced combining creativity, information organization, and digital design skills to communicate ideas in a simple and engaging way.
+I used digital design elements such as colors, icons, layouts, and organized information structures to create an output that communicates ideas in a simple and engaging way.
 
-It allowed me to explore how technology can be used as a tool for sharing knowledge and presenting information effectively.
+This project allowed me to develop creativity while understanding how technology can be used to share information effectively.
 
 ---
 
-# ₊˚⊹ My Learning Journey
+# 🌼 My Learning Journey
 
-This portfolio reflects my progress in developing digital skills while continuing my journey as a nursing student.
+This portfolio represents my continuous growth as a nursing student learning how technology can support education, communication, and healthcare practice.
 
-As healthcare continues to integrate technology, I aim to become a nurse who is not only compassionate and knowledgeable but also adaptable, innovative, and prepared for the future of digital healthcare.
+Through the 21st Century IT Skills course, I am developing skills that will help me become a future nurse who is compassionate, adaptable, creative, and prepared for a digitally advancing healthcare environment.
 
-✦ Thank you for visiting my portfolio! ♡
+<p align="center">
+🩷 Thank you for visiting my portfolio 🩵
+</p>
+
+<p align="center">
+🌼 ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა 🌸
+</p>
+
