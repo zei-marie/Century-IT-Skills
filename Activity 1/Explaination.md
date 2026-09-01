@@ -1,12 +1,12 @@
-# ₊˚⊹ Activity 1: Presentation Design Principles ✦
+<h1 align="center">₊˚⊹ Activity 1: Presentation Design Principles ✦</h1>
 
-## Project Overview
+<p align="center">
+<b>Arrupe Hall Booth 7 - Free Coffee Promotional Poster</b>
+</p>
 
-For this activity, I created a promotional poster for **"Arrupe Hall Booth 7"**, featuring a free coffee booth event.
-
-The purpose of this project was to apply fundamental **presentation design principles** in creating a digital output that is visually appealing, organized, and effective in communicating information.
-
-Through this activity, I explored how different design elements such as colors, typography, images, and layout can work together to create a meaningful and engaging presentation.
+<p align="center">
+This activity focuses on applying fundamental presentation design principles to create a digital output that is visually appealing, organized, and effective in communicating information.
+</p>
 
 ---
 
