@@ -1,95 +1,88 @@
-<img width="1414" height="2000" alt="ACTIVITY 1 - GE 4120_DELGADO,Z" src="https://github.com/user-attachments/assets/4a17166f-1e06-4964-967d-f50b2bc3a838" /># ₊˚⊹ Activity 1: Presentation Design Principles ✦
+# ₊˚⊹ Activity 1: Presentation Design Principles ✦
 
-## ☕ Project Overview![Uploading ACTIVITY 1 - GE 4120_DELGADO,Z.png…]()
-
+## Project Overview
 
 For this activity, I created a promotional poster for **"Arrupe Hall Booth 7"**, featuring a free coffee booth event.
 
-The purpose of this project was to apply basic **presentation and graphic design principles** in creating a digital output that is visually appealing, organized, and effective in communicating information.
+The purpose of this project was to apply fundamental **presentation design principles** in creating a digital output that is visually appealing, organized, and effective in communicating information.
 
-Through this activity, I explored how design elements such as colors, typography, images, and layout can work together to capture attention and deliver a clear message.
-
----
-
-# ✦ Design Concept ☕
-
-The concept of the poster was inspired by the warm and comforting experience associated with coffee.
-
-I used coffee-related visual elements, warm colors, and a simple composition to create a welcoming atmosphere. The design aimed to make the audience feel the relaxing and enjoyable mood of the event while ensuring that important details were easy to recognize.
+Through this activity, I explored how different design elements such as colors, typography, images, and layout can work together to create a meaningful and engaging presentation.
 
 ---
 
-# ✦ Design Principles Applied 🎨
+# ₊˚⊹ Design Concept
 
-## 👀 Visual Hierarchy
+The concept of the poster was inspired by the warm and comforting atmosphere associated with coffee.
 
-Visual hierarchy was used to guide the viewer’s attention toward the most important information.
-
-The event name **"Arrupe Hall"** was placed prominently at the top, while the **"Free Coffee"** message was emphasized because it serves as the main highlight of the poster.
-
-The arrangement of text and images helps the audience understand the message quickly and naturally.
+I used coffee-related visuals, warm tones, and a simple composition to create an inviting design. The goal was to capture the audience’s attention while ensuring that important event details were clear and easy to understand.
 
 ---
 
-## 🌙 Contrast
+# ₊˚⊹ Design Principles Applied
 
-Contrast was applied through the use of dark backgrounds and lighter text elements.
+## ✦ Visual Hierarchy
 
-This helped important information stand out and improved readability. The coffee-inspired colors also supported the overall theme and created a consistent visual mood.
+Visual hierarchy was applied by arranging elements according to their importance.
 
----
-
-## 📐 Alignment
-
-Proper alignment was used to create an organized and professional layout.
-
-The placement of the coffee cup, event details, and text elements were arranged carefully to avoid clutter and allow the viewer’s eyes to move smoothly across the design.
+The event name, date, and **"Free Coffee"** message were emphasized to guide the audience’s attention toward the most important information. This helped create a clear flow and made the poster easier to understand.
 
 ---
 
-## ⚖️ Balance
+## ✦ Contrast
 
-Balance was achieved by distributing the visual elements throughout the poster.
+Contrast was used through the combination of dark backgrounds and lighter text elements.
 
-The coffee cup, typography, and event information were positioned in a way that created harmony and prevented one area from feeling too heavy or empty.
-
----
-
-## ✨ Consistency
-
-Consistency was maintained by using similar fonts, colors, and design elements throughout the poster.
-
-This helped create a unified theme and made the overall design appear more polished and professional.
+This allowed important details to stand out and improved readability. The selected colors also supported the coffee theme and created a consistent visual appearance.
 
 ---
 
-## 🌱 Simplicity
+## ✦ Alignment
 
-The principle of simplicity was applied by focusing only on essential information.
+Proper alignment was applied by carefully organizing the placement of text, images, and other visual elements.
 
-Unnecessary elements were avoided to prevent distraction and ensure that the audience could easily understand the purpose of the poster.
-
----
-
-# ✦ Creative Process 💡
-
-I started by identifying the purpose of the poster and the important information that needed to be presented.
-
-After planning the layout, I selected appropriate colors, fonts, and visual elements that matched the coffee theme. I then arranged and adjusted the elements while applying different design principles to improve the overall appearance.
-
-The final output was refined by reviewing the spacing, readability, and organization of each element.
+This helped create a structured layout and prevented the design from appearing crowded or disorganized.
 
 ---
 
-# ✦ Reflection 🌸
+## ✦ Balance
 
-This activity helped me understand that effective design is not only about creating something visually attractive but also about communicating information clearly and meaningfully.
+Balance was achieved by distributing visual elements throughout the poster.
 
-I learned that every design choice, including colors, fonts, images, and arrangement, has a purpose in guiding the audience’s attention and improving understanding.
+The placement of the coffee cup, typography, and event information created a harmonious composition that allowed each element to complement one another.
 
-As a nursing student, these skills can be applied in creating health education materials, presentations, and digital resources that communicate important information in a simple and engaging way.
+---
 
-Overall, this activity improved my creativity, attention to detail, and appreciation of how technology can support effective communication.
+## ✦ Consistency
+
+Consistency was maintained through the use of similar colors, fonts, and design elements.
+
+This created a unified theme and made the overall poster appear more professional and visually connected.
+
+---
+
+## ✦ Simplicity
+
+The design followed simplicity by focusing only on essential information.
+
+Unnecessary elements were avoided to ensure that the audience could easily understand the purpose of the poster without being overwhelmed.
+
+---
+
+# ₊˚⊹ Creative Process
+
+I started by identifying the main purpose of the poster and the important information that needed to be presented.
+
+After planning the layout, I selected appropriate colors, fonts, and visual elements that matched the coffee theme. I arranged and revised the design while applying presentation principles to improve readability and overall appearance.
+
+---
+
+# ₊˚⊹ Reflection
+
+Through this activity, I learned that effective design is not only about creating visually attractive outputs but also about communicating ideas clearly and effectively.
+
+I realized that every design element has a purpose in guiding the audience’s attention and improving understanding.
+
+This activity helped me develop creativity, attention to detail, and a better appreciation of how digital tools can support communication. As a nursing student, these skills can also be applied in creating health education materials, presentations, and other digital resources for future healthcare practice.
 
 ---
 
