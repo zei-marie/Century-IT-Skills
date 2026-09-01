@@ -1,4 +1,4 @@
-# Hi, I'm ZEi joy!
+# Hi, I'm Zeiane!
 
 BS Nursing Student | 21st Century IT Skills
 
