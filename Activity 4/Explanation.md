@@ -1,4 +1,3 @@
-![Uploading Screenshot 2026-10-18 at 7.01.22 PM.png…]()
 <div align="center">
 
 <h1>₊˚⊹ GE 4120: Midterm Examination ✦</h1>
@@ -17,7 +16,8 @@
 
 <div align="center">
 
-<img src="./Images/cover.jpg" width="85%">
+<img width="1548" height="790" alt="ufvvioivwavuylltnuxc 2" src="https://github.com/user-attachments/assets/e57a43aa-86e1-4eec-99c4-0b0873c16012" />
+
 
 </div>
 
@@ -100,12 +100,7 @@ To make the discussion more practical, we conducted a **live demonstration of Go
 Instead of only explaining the features through our slides, we showed how some of the tools actually work in a document.
 
 This helped our classmates see how the different functions can be applied in real situations, especially for school activities and group work.
-
-<div align="center">
-
-<img src="./Images/demonstration.jpg" width="70%">
-
-</div>
+<img width="1282" height="328" alt="Screenshot 2026-10-18 at 7 06 27 PM" src="https://github.com/user-attachments/assets/68788f6b-f33f-4751-a721-ee61c23801b6" />
 
 ---
 
@@ -117,6 +112,7 @@ The quiz allowed our classmates to review the important features of Google Docs 
 
 <div align="center">
 
+<img width="1282" height="328" alt="Screenshot 2026-10-18 at 7 06 27 PM" src="https://github.com/user-attachments/assets/283914d0-096b-4f1f-94aa-ce7e65b76184" />
 ### 💙 Test Your Knowledge ❤️
 
 **[Take Our Google Forms Quiz →](https://docs.google.com/forms/d/e/1FAIpQLSeRL6-XfvxnerpPccpc8z6IitM5fRx2l8quHds02M1Oxo0WTw/viewform)**
