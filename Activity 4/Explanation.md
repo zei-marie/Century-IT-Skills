@@ -126,8 +126,8 @@ Our complete presentation can be viewed through the PDF below.
 
 <div align="center">
 
-📖 **[View Our Midterm Presentation PDF →](.[GE-4120-GROUP-5-ELECTIVE-SLIDES.pdf](https://github.com/user-attachments/files/33626909/GE-4120-GROUP-5-ELECTIVE-SLIDES.pdf)
-)**
+[GE-4120-GROUP-5-ELECTIVE-SLIDES.pdf](https://github.com/user-attachments/files/33626921/GE-4120-GROUP-5-ELECTIVE-SLIDES.pdf)
+
 
 </div>
 
