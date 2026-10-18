@@ -1,5 +1,3 @@
-<div align="center">
-
 <h1>₊˚⊹ GE 4120: Midterm Examination ✦</h1>
 
 <p>
@@ -165,6 +163,8 @@ Arcega • Cenia • Dablo • Delgado • Escario
 Estanislao • Grantos • Fuentes • Tomas
 
 <br>
+
+<img width="767" height="386" alt="Screenshot 2026-10-18 at 7 27 27 PM" src="https://github.com/user-attachments/assets/1f4dd8ec-cffc-4171-9712-2e26b2884787" />
 
 ✦ Thank you for viewing our work! ♡
 
