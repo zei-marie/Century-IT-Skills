@@ -94,7 +94,8 @@ To make the discussion more practical, we conducted a **live demonstration of Go
 Instead of only explaining the features through our slides, we showed how some of the tools actually work in a document.
 
 This helped our classmates see how the different functions can be applied in real situations, especially for school activities and group work.
-<img width="1282" height="328" alt="Screenshot 2026-10-18 at 7 06 27 PM" src="https://github.com/user-attachments/assets/68788f6b-f33f-4751-a721-ee61c23801b6" />
+
+<img width="771" height="390" alt="Screenshot 2026-10-18 at 7 14 21 PM" src="https://github.com/user-attachments/assets/e4c8c4dd-aca6-4e18-a7b2-0752701220dc" />
 
 ---
 
@@ -110,6 +111,7 @@ The quiz allowed our classmates to review the important features of Google Docs 
 ### 💙 Test Your Knowledge ❤️
 
 **[Take Our Google Forms Quiz →](https://docs.google.com/forms/d/e/1FAIpQLSeRL6-XfvxnerpPccpc8z6IitM5fRx2l8quHds02M1Oxo0WTw/viewform)**
+<img width="767" height="390" alt="Screenshot 2026-10-18 at 7 15 09 PM" src="https://github.com/user-attachments/assets/439c9809-bc40-48b3-a88b-eec2b9c258bc" />
 
 </div>
 
