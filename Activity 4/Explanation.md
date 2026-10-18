@@ -1,3 +1,4 @@
+![Uploading Screenshot 2026-10-18 at 7.01.22 PM.png…]()
 <div align="center">
 
 <h1>₊˚⊹ GE 4120: Midterm Examination ✦</h1>
