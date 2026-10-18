@@ -108,7 +108,8 @@ The quiz allowed our classmates to review the important features of Google Docs 
 <div align="center">
 
 <img width="1282" height="328" alt="Screenshot 2026-10-18 at 7 06 27 PM" src="https://github.com/user-attachments/assets/283914d0-096b-4f1f-94aa-ce7e65b76184" />
-### 💙 Test Your Knowledge ❤️
+ 
+ - Test Your Knowledge -
 
 **[Take Our Google Forms Quiz →](https://docs.google.com/forms/d/e/1FAIpQLSeRL6-XfvxnerpPccpc8z6IitM5fRx2l8quHds02M1Oxo0WTw/viewform)**
 
