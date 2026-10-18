@@ -1,12 +1,10 @@
+<div align="center">
+
 <h1>₊˚⊹ GE 4120: Midterm Examination ✦</h1>
 
-<p>
-<b>Group 5 | Google Docs Presentation</b>
-</p>
+<p><b>Group 5 | Google Docs Presentation</b></p>
 
-<p>
-💙 Learn • Collaborate • Create • Present ❤️
-</p>
+<p>💙 Learn • Collaborate • Create • Present ❤️</p>
 
 </div>
 
