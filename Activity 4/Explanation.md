@@ -41,12 +41,6 @@ We started our presentation with an **acting activity** to catch the attention o
 
 The activity helped create a more comfortable and engaging atmosphere before we moved into the main discussion.
 
-<div align="center">
-
-<img src="./Images/acting.jpg" width="70%">
-
-</div>
-
 ---
 
 ## 🎮 Interactive Game
@@ -61,7 +55,7 @@ It also helped make the discussion more lively instead of having a presentation 
 
 <div align="center">
 
-<img src="./Images/game.jpg" width="70%">
+<img width="1540" height="786" alt="Screenshot 2026-10-18 at 7 11 38 PM" src="https://github.com/user-attachments/assets/8f65320b-c10f-4a97-8ae5-b57c087c6df9" />
 
 </div>
 
