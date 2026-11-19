@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img width="80%" alt="My Resume" src="PASTE-YOUR-RESUME-SCREENSHOT-LINK-HERE">
+  <img width="1545" height="1999" alt="Activity 7_ Resume" src="https://github.com/user-attachments/assets/37cd5079-bd4e-4be5-8ff6-53eac9eeac5b" />
 
 </div>
 
