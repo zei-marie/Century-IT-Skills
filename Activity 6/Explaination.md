@@ -141,7 +141,7 @@ This helped me understand that creating a website can involve both **technology 
 
 ### 🌷 **Explore "Through My Lens"**
 
-<a href=" https://zmvdelgado.wixsite.com/a-blog-on-myself-1">
+ https://zmvdelgado.wixsite.com/a-blog-on-myself-1
 
 <b>✦ VISIT MY PERSONAL WEBSITE →</b>
 
