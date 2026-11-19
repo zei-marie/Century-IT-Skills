@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>₊˚⊹ Activity 5: Exploring and Improving AI Prompts ✦</h1>
+<h1>₊˚⊹ Activity 5: AI tools Activity ✦</h1>
 
 <p><b>8 Butterflies, One Angel</b></p>
 
