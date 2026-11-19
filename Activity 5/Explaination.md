@@ -6,6 +6,8 @@
 
 <p>✨ Creativity • AI • Prompt Improvement ✨</p>
 
+<img width="1086" height="1448" alt="8 Butterflies, One Angel" src="https://github.com/user-attachments/assets/6458f24b-54e9-4925-a12b-fc741e85972b" />
+
 </div>
 
 ---
