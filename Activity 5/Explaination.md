@@ -1,14 +1,10 @@
 <div align="center">
 
-<h1>₊˚⊹ GE 4120: Midterm Examination ✦</h1>
+<h1>₊˚⊹ Activity 5: Exploring and Improving AI Prompts ✦</h1>
 
-<p>
-<b>Group 5 | Google Docs Presentation</b>
-</p>
+<p><b>8 Butterflies, One Angel</b></p>
 
-<p>
-💙 Learn • Collaborate • Create • Present ❤️
-</p>
+<p>✨ Creativity • AI • Prompt Improvement ✨</p>
 
 </div>
 
@@ -16,159 +12,107 @@
 
 <div align="center">
 
-<img src="./Images/cover.jpg" width="85%">
+<img src="./8-Butterflies-One-Angel.png" width="70%">
 
 </div>
 
 ---
 
-# ₊˚⊹ About Our Midterm ✦
+# ₊˚⊹ About the Activity ✦
 
-For our **GE 4120 Midterm Examination**, our group presented **Google Docs** through an interactive and creative presentation.
+For **Activity 5**, I explored how artificial intelligence can be used to transform a simple idea into a creative visual output.
 
-Instead of simply discussing the topic, we incorporated different activities such as **acting, interactive games, discussion, live demonstration, and a Google Forms quiz** to make the presentation more engaging and enjoyable for the whole class.
+The activity required me to create an original prompt using an AI tool, improve the prompt using a leading large language model, generate a new output using the improved prompt, and compare the results based on **clarity, detail, accuracy, and usefulness**.
 
-Our goal was to introduce the features and uses of Google Docs while showing how it can be useful for **schoolwork, collaboration, communication, and digital productivity**.
+For my concept, I decided to create something personal and connected to an experience during our class. I won a small game during our presentation where we had to identify the number of butterflies shown during the lecture.
 
----
+Because of that experience, I came up with the idea:
 
-# ₊˚⊹ Our Presentation ✦
+> **"8 Butterflies, One Angel"**
 
-## 🎭 Acting
-
-We started our presentation with an **acting activity** to catch the attention of the class and introduce our topic in a creative way.
-
-The activity helped create a more comfortable and engaging atmosphere before we moved into the main discussion.
-
-<div align="center">
-
-<img src="./Images/acting.jpg" width="70%">
-
-</div>
+I used my own face as the subject and transformed the concept into a creative AI-generated image featuring eight glowing butterflies and an angel-inspired theme.
 
 ---
 
-## 🎮 Interactive Game
+# ₊˚⊹ My Original Prompt ✦
 
-After the opening activity, we conducted an interactive game called:
+My original prompt was simple and focused mainly on the main idea:
 
-### **"Head, Shoulders, Knee and Cup"**
+> **"Create an image using my face with 8 butterflies around me and make me look like an angel."**
 
-The game allowed our classmates to participate and interact with us before the main presentation.
-
-It also helped make the discussion more lively instead of having a presentation that was purely lecture-based.
-
-<div align="center">
-
-<img src="./Images/game.jpg" width="70%">
-
-</div>
+The prompt communicated the basic concept, but it did not provide much information about the environment, lighting, composition, mood, or specific visual details.
 
 ---
 
-# ₊˚⊹ Google Docs Presentation ✦
+# ₊˚⊹ Improving the Prompt ✦
 
-After the activities, we proceeded with our main discussion about **Google Docs**.
+To improve the original prompt, I added more specific details about the subject, setting, composition, lighting, and overall mood.
 
-We discussed its different features, functions, and practical uses, including:
+### Improved Prompt
 
-- 📝 Creating and editing documents
-- 📑 Formatting and organizing content
-- 🔗 Adding links and bookmarks
-- 👥 Sharing and collaboration
-- 💬 Comments and action items
-- ✏️ Suggesting mode
-- 🕐 Version history
-- ☁️ Automatic saving
-- 📊 Tables and images
-- 📚 Citations and bibliography
-- 🔍 Word count and spelling checks
-- 🎙️ Voice typing
-- 📥 Downloading and exporting files
-- 🔒 Privacy and sharing
-- 🤖 AI and Gemini features
-
-We also discussed how Google Docs allows users to work together on the same document and communicate through comments and editing tools.
+> **"Create an elegant and dreamy portrait using my face as the main subject. Keep my facial features recognizable and natural. Place me in a warm and luxurious indoor setting with soft golden lighting. Add exactly eight glowing butterflies surrounding me, with delicate sparkling trails of light. Give me large, realistic white angel wings to create an elegant angel-inspired appearance. Use warm cream, gold, and brown tones to create a magical and sophisticated atmosphere. Position me naturally in the center of the composition, with the butterflies distributed around the scene. Add soft glowing particles and subtle sparkles while keeping the overall image realistic, polished, and visually balanced. Add elegant decorative typography at the top that says: '8 Butterflies, One Angel.' "**
 
 ---
 
-# ₊˚⊹ Live Demonstration ✦
+# ₊˚⊹ The Final Output ✦
 
-To make the discussion more practical, we conducted a **live demonstration of Google Docs**.
+The improved prompt resulted in my final AI-generated image, **"8 Butterflies, One Angel."**
 
-Instead of only explaining the features through our slides, we showed how some of the tools actually work in a document.
+The image combines my own appearance with an imaginative angel-inspired concept. It features:
 
-This helped our classmates see how the different functions can be applied in real situations, especially for school activities and group work.
+- 🦋 Eight glowing butterflies
+- 👼 Large white angel wings
+- ✨ Golden lighting and sparkles
+- 🤎 Warm brown and cream tones
+- 🏛️ A luxurious indoor setting
+- ✦ Decorative typography
+- 📸 A personalized portrait using my face
 
-<div align="center">
-
-<img src="./Images/demonstration.jpg" width="70%">
-
-</div>
-
----
-
-# ₊˚⊹ Class Quiz ✦
-
-To assess the understanding of the class, we also created a **Google Forms quiz** based on the topics we discussed.
-
-The quiz allowed our classmates to review the important features of Google Docs and test what they learned from our presentation.
-
-<div align="center">
-
-### 💙 Test Your Knowledge ❤️
-
-**[Take Our Google Forms Quiz →](https://docs.google.com/forms/d/e/1FAIpQLSeRL6-XfvxnerpPccpc8z6IitM5fRx2l8quHds02M1Oxo0WTw/viewform)**
-
-</div>
+The final result was more detailed and visually complete compared with the simple idea from my original prompt.
 
 ---
 
-# ₊˚⊹ Presentation Materials ✦
+# ₊˚⊹ Comparing the Prompts ✦
 
-Our complete presentation can be viewed through the PDF below.
-
-<div align="center">
-
-📖 **[View Our Midterm Presentation PDF →](./GE-4120-GROUP-5-ELECTIVE-SLIDES.pdf)**
-
-</div>
+| Aspect | Original Prompt | Improved Prompt |
+|---|---|---|
+| **Clarity** | Simple and understandable | More specific and organized |
+| **Detail** | Focused mainly on the face, butterflies, and angel concept | Included setting, lighting, composition, colors, wings, and atmosphere |
+| **Accuracy** | Left many visual decisions to the AI | Gave clearer instructions about the desired result |
+| **Usefulness** | Good for generating a basic concept | More useful for producing a specific and personalized image |
 
 ---
 
-# ₊˚⊹ What We Learned ✦
+# ₊˚⊹ What I Learned ✦
 
-Through this midterm examination, we learned that presenting a topic does not always have to be limited to explaining information through slides.
+This activity helped me understand that the quality of an AI-generated output can be greatly influenced by how a prompt is written.
 
-By combining **acting, games, presentation, demonstration, and assessment**, we were able to make the learning experience more interactive and engaging.
+My original prompt communicated my idea, but it was very general. When I added specific instructions about the setting, lighting, composition, colors, subject, and mood, the AI had more information to work with.
 
-We also gained a better understanding of Google Docs and how its features can support collaboration, organization, and communication.
+I also learned that **prompting is a form of communication**. The clearer the instructions are, the easier it is for the AI to understand the desired output.
 
 ---
 
 # ₊˚⊹ Reflection ✦
 
-This experience helped us develop not only our knowledge about Google Docs but also our **teamwork, communication, creativity, and confidence**.
+I enjoyed this activity because I was able to combine something personal with AI technology.
 
-We learned that preparing a presentation requires cooperation from everyone in the group. Each activity, from the opening performance to the final quiz, required planning and participation.
+The idea came from a simple and funny experience during our class when I won the butterfly-counting game. Instead of just keeping that moment as a memory, I turned it into a creative concept and used AI to visualize it.
 
-The experience also showed us that technology can make learning more engaging when it is used creatively.
+At first, I thought AI image generation was simply about typing a short description and waiting for the result. Through this activity, I realized that creating a good AI output also requires **planning, creativity, experimentation, and clear prompting**.
 
-Most importantly, we realized that digital tools are not only useful for completing school requirements. They can also help us **communicate ideas, collaborate with others, and create more interactive learning experiences**.
+This activity also made me more comfortable with exploring AI tools. I learned that AI can be used not only for answering questions or finding information but also for **creative expression and visual storytelling**.
+
+Most importantly, I learned that the person using the AI still plays an important role. AI provides the tool, but the idea, direction, and creativity come from the user.
 
 ---
 
 <div align="center">
 
-# ₊˚⊹ 💙 CREATE • COLLABORATE • LEARN ❤️
+# ₊˚⊹ 8 Butterflies, One Angel ✦
 
-### GE 4120 • Midterm Examination • Group 5
+**A simple classroom moment turned into a creative AI experiment.**
 
-Arcega • Cenia • Dablo • Delgado • Escario  
-Estanislao • Grantos • Fuentes • Tomas
-
-<br>
-
-✦ Thank you for viewing our work! ♡
+♡ Thank you for viewing my work! ♡
 
 </div>
