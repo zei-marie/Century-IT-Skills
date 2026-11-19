@@ -11,9 +11,6 @@
 ---
 
 <div align="center">
-
-<img width="85%" alt="My Personal Portfolio Website" src="PASTE-YOUR-WEBSITE-SCREENSHOT-LINK-HERE">
-
 </div>
 
 ---
@@ -144,7 +141,7 @@ This helped me understand that creating a website can involve both **technology 
 
 ### 🌷 **Explore "Through My Lens"**
 
-<a href="YOUR-WIX-LINK-HERE">
+<a href=" https://zmvdelgado.wixsite.com/a-blog-on-myself-1">
 
 <b>✦ VISIT MY PERSONAL WEBSITE →</b>
 
